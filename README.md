@@ -1,4 +1,3 @@
-```markdown
 # InsightHub - Personalized News Digest Platform
 
 Welcome to **InsightHub**, a platform designed to deliver real-time, personalized news based on user preferences, with AI-powered article summaries for concise news insights. Hosted on Vercel, InsightHub offers a seamless, engaging experience for anyone seeking relevant news on-demand.
