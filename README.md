@@ -1,5 +1,3 @@
-Here's a `README.md` template for your project, tailored for showcasing at interviews:
-
 ```markdown
 # InsightHub - Personalized News Digest Platform
 
@@ -91,13 +89,7 @@ Add screenshots to help demonstrate the app's functionality. Replace `[path/to/s
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
 ---
 
-Developed with ❤️ by [Your Name](https://github.com/your-username)
+Developed with ❤️ by [Abel Boby](https://github.com/Abelboby)
 ```
-
-This structure presents the project’s features, setup instructions, and tech stack professionally, with a focus on usability, making it ideal for interviews. Let me know if you'd like any more sections added or adjusted!
