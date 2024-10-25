@@ -66,7 +66,6 @@ Welcome to **InsightHub**, a platform designed to deliver real-time, personalize
 
 ## Screenshots
 
-Add screenshots to help demonstrate the app's functionality. Replace `[path/to/screenshot]` with the actual file paths.
 
 - **Home Screen**:
   ![Home Screen](./login.png)
