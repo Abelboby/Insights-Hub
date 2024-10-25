@@ -88,6 +88,4 @@ Add screenshots to help demonstrate the app's functionality. Replace `[path/to/s
 
 ---
 
----
-
 Developed with ❤️ by [Abel Boby](https://github.com/Abelboby)
